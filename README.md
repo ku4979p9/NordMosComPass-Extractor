@@ -1,1 +1,1 @@
-# NordPassTop200-Extractor
+Extracts passwords from the NordPass [Top 200 Most Common Passwords](https://nordpass.com/most-common-passwords-list/) webpage and converts them into a clean list.
